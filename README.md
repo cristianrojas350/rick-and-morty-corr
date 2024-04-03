@@ -1,4 +1,46 @@
-# Getting Started with Create React App
+# Proyecto Rick & Morty CORR
+## 
+
+- ReactJS
+- React Router
+- Material UI
+- Jest
+- Api- Rick and Morty
+
+## Importante
+
+
+# Nombre del Proyecto
+
+Consumo de Api de rick and morty para el renderizado de la informacion desde react , con material ui
+
+## Instrucciones de instalación:
+
+Primero, debes proporcionar instrucciones sobre cómo instalar las dependencias del proyecto. Puedes hacer esto utilizando el siguiente comando:
+
+```bash
+> npm install
+Ejecución del Proyecto
+```
+```bash
+Para ejecutar el proyecto, utiliza el siguiente comando:
+
+> npm start
+```
+```bash
+Ejecución de Pruebas
+Para ejecutar las pruebas, utiliza el siguiente comando:
+
+ > npm test
+ ```
+Asegúrate de tener Node.js y npm instalados en tu sistema antes de seguir los pasos anteriores.
+
+
+Con esto, los usuarios podrán entender fácilmente cómo instalar, ejecutar el proyecto y ejecutar las pruebas utilizando npm.
+
+
+Desarrollado Por: Cristian Rojas Rios
+2024# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
